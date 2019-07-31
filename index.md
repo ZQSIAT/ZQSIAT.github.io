@@ -14,6 +14,8 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 ## 数字图像处理
 [2018年3月24日 数字图像处理第二章作业 图像旋转](./docs/DIP course chapter 2 image rotation.md).
 <br>[2018年4月10日 数字图像处理第三章作业 图像增强高斯拉普拉斯算子零交叉点](https://zhuanlan.zhihu.com/p/35239779)[**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
+<br>[2019年7月30日 双线性插值原理 图像旋转]()
+<br>[2019年7月31日 feature map以及反卷积的大小计算](http://note.youdao.com/groupshare/?token=C74CA57A7DCA4FD391295628980DF651&gid=89870316)
 ## 生物医学信息
 [2018年7月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
 ## 平台搭建&环境配置
@@ -24,7 +26,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>[2019年3月20日 pycharm之新建工程以及远程调试](http://note.youdao.com/noteshare?id=8f2bb561f8302a784fcc4fd29bfa35ab).
 <br>[2019年5月1日 pycharm之git push/pull以及多人共同管理编辑githui托管库](./docs/pycharm git push-pull.md)
 
-# 想法记录
+# My idea
 ## 关于大疆无人机
 [大疆无人机的一些思考](./docs/dji production.md)
 
