@@ -24,7 +24,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 [2018年05月01日 windows10 Python 3.5.2 pytorch pip3 cuda9.1](https://zhuanlan.zhihu.com/p/36307324).
 <br>[2019年07月29日 如何使用github pages搭建一个自己的个人博客主页](./docs/How to build your own personal homepage.md).
 ### Pycharm相关
-[2019年03月20日 pycharm怎样解决安装的numpy、opencv、scipy插件无法import的问题](http://note.youdao.com/noteshare?id=2b9ef718642a083bcc55d90b4e8be579).
+[2019年03月20日 pycharm怎样解决安装的numpy等库无法识别的问题](http://note.youdao.com/noteshare?id=2b9ef718642a083bcc55d90b4e8be579).
 <br>[2019年03月20日 pycharm之新建工程以及远程调试](http://note.youdao.com/noteshare?id=8f2bb561f8302a784fcc4fd29bfa35ab).
 <br>[2019年05月01日 pycharm之git push/pull以及多人共同管理编辑githui托管库](./docs/pycharm git push-pull.md)
 
