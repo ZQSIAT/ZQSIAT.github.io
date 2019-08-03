@@ -14,7 +14,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 [2019年07月28日 花书阅读笔记 持续更新中](./docs/20190728 deep learning note.md).
 ## 数字图像处理
 [2018年03月24日 数字图像处理第二章作业 图像旋转](./docs/DIP course chapter 2 image rotation.md).
-<br>[2018年04月10日 数字图像处理第三章作业 图像增强高斯拉普拉斯算子](https://zhuanlan.zhihu.com/p/35239779)[**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
+<br>[2018年04月10日 数字图像处理第三章作业 图像增强 LoG](https://zhuanlan.zhihu.com/p/35239779)[**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
 <br>[2019年07月30日 双线性插值原理 图像旋转](https://note.youdao.com/share/?token=A70902EBA0E048FCA506853FE72C0AE1&gid=89870316)
 <br>[2019年07月31日 feature map以及反卷积的大小计算](http://note.youdao.com/groupshare/?token=C74CA57A7DCA4FD391295628980DF651&gid=89870316)
 <br>[2019年07月31日 中值滤波原理及其C++代码](http://note.youdao.com/groupshare/?token=76567AC7DAB54DEC804E0626E0380E32&gid=89870316)
