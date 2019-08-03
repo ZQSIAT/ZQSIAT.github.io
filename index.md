@@ -16,7 +16,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>[2018年4月10日 数字图像处理第三章作业 图像增强高斯拉普拉斯算子零交叉点](https://zhuanlan.zhihu.com/p/35239779)[**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
 <br>[2019年7月30日 双线性插值原理 图像旋转](https://note.youdao.com/share/?token=A70902EBA0E048FCA506853FE72C0AE1&gid=89870316)
 <br>[2019年7月31日 feature map以及反卷积的大小计算](http://note.youdao.com/groupshare/?token=C74CA57A7DCA4FD391295628980DF651&gid=89870316)
-<br>[2019年7月31日 手撕代码之中值滤波器C++实现](http://note.youdao.com/groupshare/?token=76567AC7DAB54DEC804E0626E0380E32&gid=89870316)
+<br>[2019年7月31日 中值滤波原理及其C++代码](http://note.youdao.com/groupshare/?token=76567AC7DAB54DEC804E0626E0380E32&gid=89870316)
 <br>[2019年8月2日 加权中值滤波原理及其公式推导](https://note.youdao.com/share/?token=8FA3D0281A964C1BA3A6C71059284881&gid=89870316)
 ## 机器学习相关
 [2018年7月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
