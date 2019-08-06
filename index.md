@@ -28,7 +28,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 [2019年03月20日 pycharm怎样解决安装的numpy等库无法识别的问题](http://note.youdao.com/noteshare?id=2b9ef718642a083bcc55d90b4e8be579).
 <br>[2019年03月20日 pycharm之新建工程以及远程调试](http://note.youdao.com/noteshare?id=8f2bb561f8302a784fcc4fd29bfa35ab).
 <br>[2019年05月01日 pycharm之git push/pull以及多人共同管理编辑githui托管库](./docs/pycharm git push-pull.md)
-
+<br>[2019年8月6日 python3中的is和==操作的区别](http://note.youdao.com/groupshare/?token=2B4BEFB5B1C8481FBCC51B036976A1CF&gid=89870316)
 # My idea
 [大疆无人机的一些思考](./docs/dji production.md)
 
