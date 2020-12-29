@@ -6,7 +6,7 @@ I hope to communicate and study with you.
 
 # How can you reach me?
 Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@". 
-<br>Address: 1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, P.R.China
+<br>Address: Tongji University, No. 4800 Cao'an Highway, Jiading Campus, Shanghai, P.R.China
 <br>My Resume: [updating](http://note.youdao.com/groupshare/?token=9CD69F8F176F44489EBE31E0837D5EC8&gid=89870316)
 
 # My blog
