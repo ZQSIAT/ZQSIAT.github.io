@@ -1,5 +1,5 @@
 # 代码
-```
+```python
 '''
 1156. Swap For Longest Repeated Character Substring
 Given a string text, we are allowed to swap two of the characters in the string. Find the length of the longest substring with repeated characters.

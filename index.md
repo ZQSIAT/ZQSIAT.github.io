@@ -23,6 +23,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 [2018年07月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
 ### 深度学习
 [2021年02月02日 二维卷积的python实现](./docs/convolution.md)
+[2021年02月02日 softmax激活函数结合cross entropy损失函数的反向传播过程计算]()
 ### leetcode
 [0005. Longest Palindromic Substring](/docs/leetcode0005.md)
 <br>[1156. Swap For Longest Repeated Character Substring](./docs/leetcode1156.md)
