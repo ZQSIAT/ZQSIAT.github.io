@@ -9,11 +9,12 @@
         });
     </script>
 </head>
+
 # 计算过程
-![](https://i.loli.net/2021/02/02/hTI2yuedJU3j78B.png)
+![](https://i.loli.net/2021/02/02/hTI2yuedJU3j78B.png) 
 如上图所示，计算softmax损失的前向传播过程。
 ### 假设：
-输入为 $$ z $$ 向量`z = [z_1]`
+输入为 $ z $ 向量`z = [z_1]`
 # 代码
 ```python
 # Train a Linear Classifier
