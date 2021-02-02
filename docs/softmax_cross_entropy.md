@@ -14,7 +14,8 @@
 ![](https://i.loli.net/2021/02/02/hTI2yuedJU3j78B.png) 
 如上图所示，计算softmax损失的前向传播过程。
 ### 假设：
-输入为 $ z $ 向量`z = [z_1]`
+1. 输入为 $ z $ 向量 $ z=[z_1, ··· z_n] $, 维度为 $ (1, n) $。
+2. 经过softmax函数，$a_i =  \frac{e^{z_i}}{\sum_{i=1}^{n}e_{z_k}} $
 # 代码
 ```python
 # Train a Linear Classifier
