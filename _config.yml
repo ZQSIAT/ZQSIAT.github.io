@@ -4,3 +4,4 @@ description: I used to be graduate student in Chinese Academy of Sciences, Now I
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+markdown: kramdown

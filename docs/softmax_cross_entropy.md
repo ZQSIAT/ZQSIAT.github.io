@@ -1,3 +1,14 @@
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']]
+            }
+        });
+    </script>
+</head>
 # 计算过程
 ![](https://i.loli.net/2021/02/02/hTI2yuedJU3j78B.png)
 如上图所示，计算softmax损失的前向传播过程。
@@ -52,3 +63,5 @@ for i in range(200):
     b += -step_size * db
     
 ```
+
+<br>[back to home page](./..)
