@@ -24,7 +24,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 ### 深度学习
 [2021年02月02日 二维卷积的python实现](./docs/convolution.md)
 ### leetcode
-[5. Longest Palindromic Substring](/docs/leetcode0005.md)
+[0005. Longest Palindromic Substring](/docs/leetcode0005.md)
 <br>[1156. Swap For Longest Repeated Character Substring](./docs/leetcode1156.md)
 ## 平台搭建&环境配置
 [2018年05月01日 windows10 Python 3.5.2 pytorch pip3 cuda9.1](https://zhuanlan.zhihu.com/p/36307324).
