@@ -19,8 +19,10 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>[2019年07月31日 feature map以及反卷积的大小计算](http://note.youdao.com/groupshare/?token=C74CA57A7DCA4FD391295628980DF651&gid=89870316)
 <br>[2019年07月31日 中值滤波原理及其C++代码](http://note.youdao.com/groupshare/?token=76567AC7DAB54DEC804E0626E0380E32&gid=89870316)
 <br>[2019年08月02日 加权中值滤波原理及其公式推导](https://note.youdao.com/share/?token=8FA3D0281A964C1BA3A6C71059284881&gid=89870316)
-## 机器学习相关
+## 机器学习
 [2018年07月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
+### 深度学习
+[2021年02月02日]()
 ## 平台搭建&环境配置
 [2018年05月01日 windows10 Python 3.5.2 pytorch pip3 cuda9.1](https://zhuanlan.zhihu.com/p/36307324).
 <br>[2019年07月29日 如何使用github pages搭建一个自己的个人博客主页](./docs/How to build your own personal homepage.md).
