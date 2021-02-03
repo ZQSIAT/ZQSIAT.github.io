@@ -25,6 +25,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 ### 深度学习
 [2021年02月02日 二维卷积的python实现](./docs/convolution.md)
 <br>[2021年02月02日 softmax激活函数结合cross entropy损失函数的反向传播过程计算](http://note.youdao.com/groupshare/?token=60D47E0873964BFFB5982AFDF38B200F&gid=89870316)
+<br>[2021年02月03日BP神经网络的反向传播实现 MNIST](http://note.youdao.com/groupshare/?token=8B3A2602C97549A3A5B565B8D6E6A51A&gid=89870316)
 ### leetcode
 [0005. Longest Palindromic Substring](/docs/leetcode0005.md)
 <br>[1156. Swap For Longest Repeated Character Substring](./docs/leetcode1156.md)
