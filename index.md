@@ -10,8 +10,8 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>My Resume: [updating](http://note.youdao.com/groupshare/?token=9CD69F8F176F44489EBE31E0837D5EC8&gid=89870316)
 
 # My blog
-## 花书阅读
-[2019年07月28日 花书阅读笔记 持续更新中](./docs/20190728 deep learning note.md).
+## 论文
+[Exploiting Spatio-Temporal Representation for 3D Human Action Recognition from Depth Map Sequences](https://github.com/ZQSIAT/DOGV-ST3D-zqs).
 ## 数字图像处理
 [2018年03月24日 数字图像处理第二章作业 图像旋转](./docs/DIP course chapter 2 image rotation.md).
 <br>[2018年04月10日 数字图像处理第三章作业 图像增强 LoG](https://zhuanlan.zhihu.com/p/35239779)
@@ -39,6 +39,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>[2019年8月6日 python3中的is和==操作的区别](http://note.youdao.com/groupshare/?token=2B4BEFB5B1C8481FBCC51B036976A1CF&gid=89870316)
 # My idea
 [大疆无人机的一些思考](./docs/dji production.md)
+[深度学习](./docs/learn_learning.md)
 
 
 
