@@ -27,11 +27,19 @@ Advances in Neural Information Processing Systems, <font face="Georgia" color="R
 
 <br>
 <img src="https://i.postimg.cc/k5khG7FJ/ijcv-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-Adaptive Discriminative Regularization for Visual Classification
+Adaptive Discriminative Regularization for Visual Classification.
 
 <font face="Georgia"><I></I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I>, Yi Wang, Cairong Zhao</I></font>
 International Journal of Computer Vision, <font face="Georgia" color="RoyalBlue"><I><B>IJCV 2024</B></I></font>
-[[<font color="RoyalBlue"><B>📃 Code</B></font>]](https://github.com/OpenGVLab/OV-OAD)
+[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2203.00833)
+
+<br>
+<img src="https://i.postimg.cc/Yq54dV34/aedc-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
+Learning Discriminative Representations in Videos via Active Embedding Distance Correlation.
+
+<font face="Georgia"><I></I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I>, Yi Wang, Cairong Zhao</I></font>
+IEEE SPL <font face="Georgia" color="RoyalBlue"><I><B>SPL 2024</B></I></font>
+[[<font color="RoyalBlue"><B>📃 Code</B></font>]](https://github.com/ZQSIAT/AEDC)
 
 <br>
 
