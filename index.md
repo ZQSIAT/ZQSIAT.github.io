@@ -53,6 +53,27 @@ Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using 
 
 <br>
 
+<img src="https://i.postimg.cc/5t1XVCDb/kbs-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
+Exploiting Spatio-Temporal Representation for 3D Human Action Recognition from Depth Map Sequences.
+
+<font face="Georgia"><I>Xiaopeng Ji, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I></I></font>
+KBS <font face="Georgia" color="RoyalBlue"><I><B>KBS 2021</B></I></font>
+[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/document/8943103)
+
+<br>
+
+<img src="https://i.postimg.cc/02MMdxpR/tmm-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
+A Cuboid CNN Model with an Attention Mechanism for Skeleton-based Action Recognition.
+
+<font face="Georgia"><I>Kaijun Zhu, Ruxin Wang, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I></I></font>
+IEEETransactions on Multimedia <font face="Georgia" color="RoyalBlue"><I><B>TMM 2020</B></I></font>
+[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/document/8943103)
+
+<br>
+
+
+
+
 
 # Chaos
 ## 数字图像处理
