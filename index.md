@@ -18,10 +18,10 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 
 ## Publications
 <hr />
-<img src="[collections/OVOAD.png](https://i.postimg.cc/4dMR8CCY/overall.png)" width="307" height="158"   align="left" hspace="20" vspace="0"/>
+<img src="https://i.postimg.cc/4dMR8CCY/overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
 ###### **Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?** 
 
-<font face="Georgia"><I>Qingsong Zhao, Yi Wang, Jilan Xu, Yinan He, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Limin Wang, Yu Qiao, Cairong Zhao</I></font>
+<font face="Georgia"><I></I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I>, Yi Wang, Jilan Xu, Yinan He, Zifan Song, Limin Wang, Yu Qiao, Cairong Zhao</I></font>
 
 Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2024</B></I></font>**
 
