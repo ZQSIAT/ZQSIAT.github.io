@@ -43,6 +43,14 @@ IEEE SPL <font face="Georgia" color="RoyalBlue"><I><B>SPL 2024</B></I></font>
 
 <br>
 
+<img src="https://i.postimg.cc/CxbRXNPc/icra-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
+Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-ModelKnowledge Distillation.
+
+<font face="Georgia"><I>Rui Yu, Runkai Zhao, Jiagen Li, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I></I></font>
+2025 IEEE International Conference on Robotics and Automation (Under Review) <font face="Georgia" color="RoyalBlue"><I><B>ICRA 2025</B></I></font>
+[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2409.11018)
+
+<br>
 
 
 # Chaos
