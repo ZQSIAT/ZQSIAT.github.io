@@ -41,6 +41,7 @@ Learning Discriminative Representations in Videos via Active Embedding Distance 
 IEEE SPL <font face="Georgia" color="RoyalBlue"><I><B>SPL 2024</B></I></font>
 [[<font color="RoyalBlue"><B>📃 Code</B></font>]](https://github.com/ZQSIAT/AEDC)
 
+
 <br>
 
 <img src="https://i.postimg.cc/CxbRXNPc/icra-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
