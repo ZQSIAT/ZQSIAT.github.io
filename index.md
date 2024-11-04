@@ -9,11 +9,11 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink)
 
 ## News
-- [2024/10] **1 Papers** on Video Understanding ([**Learning Discriminative Representations in Videos**](https://github.com/ZQSIAT/AEDC){:target="_blank"}) are accepted by IEEE Signal Processing Letters, **SPL 2024**.
+- [2024/10] **1 Papers** on Video Understanding ([**Learning Discriminative Representations in Videos**](https://github.com/ZQSIAT/AEDC)) are accepted by IEEE Signal Processing Letters, **SPL 2024**.
 - [2024/10] I have been invited to serve as a Reviewer for CVPR, **CVPR 2025**.
-- [2024/09] **1 Papers** on Video Understanding ([**Open-Vocabulary Online Action Detection**](https://github.com/OpenGVLab/OV-OAD){:target="_blank"}) are accepted by Advances in Neural Information Processing Systems, **NeurIPS 2024**.
+- [2024/09] **1 Papers** on Video Understanding ([**Open-Vocabulary Online Action Detection**](https://github.com/OpenGVLab/OV-OAD)) are accepted by Advances in Neural Information Processing Systems, **NeurIPS 2024**.
 - [2024/08] I have been invited to serve as a Reviewer for AAAI, **AAAI 2025**.
-- [2024/05] **1 Paper** on visual classification ([***Code Needs Comments***](https://link.springer.com/article/10.1007/s11263-024-02080-0){:target="_blank"}) is accepted by International Journal of Computer Vision, **IJCV 2024**.
+- [2024/05] **1 Paper** on visual classification ([***Code Needs Comments***](https://link.springer.com/article/10.1007/s11263-024-02080-0)) is accepted by International Journal of Computer Vision, **IJCV 2024**.
 
 
 ## Publications
@@ -32,7 +32,6 @@ Advances in Neural Information Processing Systems, **<font face="Georgia" color=
 
 # Chaos
 ## 数字图像处理
-[2018年03月24日 数字图像处理第二章作业 图像旋转](./docs/DIP course chapter 2 image rotation.md).
 <br>[2018年04月10日 数字图像处理第三章作业 图像增强 LoG](https://zhuanlan.zhihu.com/p/35239779)
 [**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
 <br>[2019年07月30日 双线性插值原理 图像旋转](https://note.youdao.com/share/?token=A70902EBA0E048FCA506853FE72C0AE1&gid=89870316)
