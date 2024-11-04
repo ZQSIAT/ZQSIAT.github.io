@@ -1,17 +1,36 @@
 # Welcome
 I hope to communicate and study with you.
 <br>This is my first study blog, please waiting for my updating. 
-<br>I will transfer notes from [**Youdao Cloud Notes**](https://note.youdao.com/?keyfrom=ydoc) and [**Zhihu**](https://www.zhihu.com/people/zhao-qing-song-68-22/activities) platform to my own personal blog.
-<br>I will update my blog weekly.
+<br>I will transfer notes from [**Zhihu**](https://www.zhihu.com/people/zhao-qing-song-68-22/activities) platform to my own personal blog.
 
 # How can you reach me?
 Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@". 
 <br>Address: Tongji University, No. 4800 Cao'an Highway, Jiading Campus, Shanghai, P.R.China
-<br>My Resume: [updating](http://note.youdao.com/groupshare/?token=9CD69F8F176F44489EBE31E0837D5EC8&gid=89870316)
+<br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink)
 
-# My blog
-## 论文
-[Exploiting Spatio-Temporal Representation for 3D Human Action Recognition from Depth Map Sequences](https://github.com/ZQSIAT/DOGV-ST3D-zqs).
+## News
+- [2024/10] **1 Papers** on Video Understanding ([**Learning Discriminative Representations in Videos**](https://github.com/ZQSIAT/AEDC){:target="_blank"}) are accepted by IEEE Signal Processing Letters, **SPL 2024**.
+- [2024/10] I have been invited to serve as a Reviewer for CVPR, **CVPR 2025**.
+- [2024/09] **1 Papers** on Video Understanding ([**Open-Vocabulary Online Action Detection**](https://github.com/OpenGVLab/OV-OAD){:target="_blank"}) are accepted by Advances in Neural Information Processing Systems, **NeurIPS 2024**.
+- [2024/08] I have been invited to serve as a Reviewer for AAAI, **AAAI 2025**.
+- [2024/05] **1 Paper** on visual classification ([***Code Needs Comments***](https://link.springer.com/article/10.1007/s11263-024-02080-0){:target="_blank"}) is accepted by International Journal of Computer Vision, **IJCV 2024**.
+
+
+## Publications
+<hr />
+<img src="[collections/OVOAD.png](https://i.postimg.cc/4dMR8CCY/overall.png)" width="307" height="158"   align="left" hspace="20" vspace="0"/>
+###### **Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?** 
+
+<font face="Georgia"><I>Qingsong Zhao, Yi Wang, Jilan Xu, Yinan He, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Zifan Song</B></I></font>**<font face="Georgia"><I>, Limin Wang, Yu Qiao, Cairong Zhao</I></font>
+
+Advances in Neural Information Processing Systems, **<font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2024</B></I></font>**
+
+[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://openreview.net/pdf?id=PWzB2V2b6R){:target="_blank"}
+
+<br>
+
+
+# Chaos
 ## 数字图像处理
 [2018年03月24日 数字图像处理第二章作业 图像旋转](./docs/DIP course chapter 2 image rotation.md).
 <br>[2018年04月10日 数字图像处理第三章作业 图像增强 LoG](https://zhuanlan.zhihu.com/p/35239779)
@@ -22,24 +41,10 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>[2019年08月02日 加权中值滤波原理及其公式推导](https://note.youdao.com/share/?token=8FA3D0281A964C1BA3A6C71059284881&gid=89870316)
 ## 机器学习
 [2018年07月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
-### 深度学习
 [2021年02月02日 二维卷积的python实现](./docs/convolution.md)
 <br>[2021年02月02日 softmax激活函数结合cross entropy损失函数的反向传播过程计算](http://note.youdao.com/groupshare/?token=60D47E0873964BFFB5982AFDF38B200F&gid=89870316)
 <br>[2021年02月03日BP神经网络的反向传播实现 MNIST](http://note.youdao.com/groupshare/?token=8B3A2602C97549A3A5B565B8D6E6A51A&gid=89870316)
-### leetcode
-[0005. Longest Palindromic Substring](/docs/leetcode0005.md)
-<br>[1156. Swap For Longest Repeated Character Substring](./docs/leetcode1156.md)
-## 平台搭建&环境配置
-[2018年05月01日 windows10 Python 3.5.2 pytorch pip3 cuda9.1](https://zhuanlan.zhihu.com/p/36307324).
-<br>[2019年07月29日 如何使用github pages搭建一个自己的个人博客主页](./docs/How to build your own personal homepage.md).
-### Pycharm相关
-[2019年03月20日 pycharm怎样解决安装的numpy等库无法识别的问题](http://note.youdao.com/noteshare?id=2b9ef718642a083bcc55d90b4e8be579).
-<br>[2019年03月20日 pycharm之新建工程以及远程调试](http://note.youdao.com/noteshare?id=8f2bb561f8302a784fcc4fd29bfa35ab).
-<br>[2019年05月01日 pycharm之git push/pull以及多人共同管理编辑githui托管库](./docs/pycharm git push-pull.md)
-<br>[2019年8月6日 python3中的is和==操作的区别](http://note.youdao.com/groupshare/?token=2B4BEFB5B1C8481FBCC51B036976A1CF&gid=89870316)
-# My idea
-[大疆无人机的一些思考](./docs/dji production.md)
-[深度学习](./docs/learn_learning.md)
+
 
 
 
