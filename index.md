@@ -9,11 +9,13 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink)
 
 ## News
+- [2025/08] **1 Papers** on Machine Learning ([**DPL++: Advancing the Network Performance via Image and Label Perturbations**](https://github.com/)) are accepted by Transactions on Pattern Analysis and Machine Intelligence, **TPAMI 2025**.
 - [2024/10] **1 Papers** on Video Understanding ([**Learning Discriminative Representations in Videos**](https://github.com/ZQSIAT/AEDC)) are accepted by IEEE Signal Processing Letters, **SPL 2024**.
 - [2024/10] I have been invited to serve as a Reviewer for CVPR, **CVPR 2025**.
 - [2024/09] **1 Papers** on Video Understanding ([**Open-Vocabulary Online Action Detection**](https://github.com/OpenGVLab/OV-OAD)) are accepted by Advances in Neural Information Processing Systems, **NeurIPS 2024**.
 - [2024/08] I have been invited to serve as a Reviewer for AAAI, **AAAI 2025**.
 - [2024/05] **1 Paper** on visual classification ([***Code Needs Comments***](https://link.springer.com/article/10.1007/s11263-024-02080-0)) is accepted by International Journal of Computer Vision, **IJCV 2024**.
+
 
 
 ## Publications
