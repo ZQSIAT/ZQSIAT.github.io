@@ -1,14 +1,17 @@
 # Welcome
 I hope to communicate and study with you.
-<br>This is my first study blog, please waiting for my updating. 
+<br>This is my study blog, waiting for my updating. 
 <br>I will transfer notes from [**Zhihu**](https://www.zhihu.com/people/zhao-qing-song-68-22/activities) platform to my own personal blog.
 
 # How can you reach me?
-Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@". 
-<br>Address: Tongji University, No. 4800 Cao'an Highway, Jiading Campus, Shanghai, P.R.China
-<br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink)
+Email: ***zqsiat#gmail.com***. Please replace "#" with "@". 
+<br>Address: Shanghai, P.R.China
+<!-- <br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink) -->
 
 ## News
+- [2025/10] Thrilled to announce I’ve joined TeleAI as an Algorithm Researcher, where I’ll be focusing on AI Flow (formerly referred to as 智传网).
+- [2025/10] **1 Papers** on AI4SCI ([**ExpVid: A Benchmark for Experiment Video Understanding & Reasoning**](https://arxiv.org/abs/2510.11606)) are submited. 
+- [2025/09] **1 Papers** on Deep Learning ([**Person Identify Shift for Privacy-Preserving Person Re-identification**](https://arxiv.org/abs/2207.07311)) are accepted by SCIENCE CHINA Information Sciences, **SCIS CCF-A**.
 - [2025/08] **1 Papers** on Machine Learning ([**DPL++: Advancing the Network Performance via Image and Label Perturbations**](https://github.com/)) are accepted by Transactions on Pattern Analysis and Machine Intelligence, **TPAMI 2025**.
 - [2024/10] **1 Papers** on Video Understanding ([**Learning Discriminative Representations in Videos**](https://github.com/ZQSIAT/AEDC)) are accepted by IEEE Signal Processing Letters, **SPL 2024**.
 - [2024/10] I have been invited to serve as a Reviewer for CVPR, **CVPR 2025**.
