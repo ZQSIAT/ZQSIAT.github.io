@@ -1,6 +1,5 @@
 # Welcome
-I used to be graduate student in Chinese Academy of Sciences, Now I am a Ph.D. candidate in Tongji University.
-I am doing some work in Machine Learning and Computer Vision. I hope to communicate and study with you.
+I’ve earned my PhD in Computer Science from Tongji University and am currently serving as an AI Flow Algorithm Researcher at TeleAI.
 <br>This is my first study blog, please waiting for my updating. 
 <br>I will update my blog weekly.
 
