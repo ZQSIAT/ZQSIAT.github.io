@@ -9,6 +9,7 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 <!-- <br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink) -->
 
 ## ✨News✨
+- [2026/01] We are honored to have **two papers** accepted at ICLR 2026! 🎉
 - [2025/10] Thrilled to announce I’ve joined TeleAI as an Algorithm Researcher, where I’ll be focusing on AI Flow (formerly referred to as 智传网).🌱
 - [2025/10] **1 Papers** on AI4SCI ([**ExpVid: A Benchmark for Experiment Video Understanding & Reasoning**](https://arxiv.org/abs/2510.11606)) are submited. 🎉
 - [2025/09] **1 Papers** on Deep Learning ([**Person Identify Shift for Privacy-Preserving Person Re-identification**](https://arxiv.org/abs/2207.07311)) are accepted by SCIENCE CHINA Information Sciences, **SCIS CCF-A**.🎉
@@ -22,63 +23,51 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 
 
 ## 📖Publications🗞️
-<hr />
-<img src="https://i.postimg.cc/4dMR8CCY/overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?
-<font face="Georgia"><I></I></font><font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font><font face="Georgia"><I>, Yi Wang, Jilan Xu, Yinan He, Zifan Song, Limin Wang, Yu Qiao, Cairong Zhao</I></font>
-Advances in Neural Information Processing Systems, <font face="Georgia" color="RoyalBlue"><I><B>NeurIPS 2024</B></I></font>
+![RIVER](https://i.postimg.cc/PxwfHR6Z/image.png)  
+**RIVER: Real-time Video Interaction Benchmark**  
+*Yansong Shi\*, Qingsong Zhao\*, Tianxiang Jiang, Xiangyu Zeng, Yi Wang, Limin Wang*  
+**ICLR 2026**
 
-[[<font color="RoyalBlue"><B>📃 Code</B></font>]](https://github.com/OpenGVLab/OV-OAD)
+![ExpVid](https://i.postimg.cc/7hRpLHfg/image.png)  
+**ExpVid: A Benchmark for Experiment Video Understanding & Reasoning**  
+*Yicheng Xu, Yue Wu, Jiashuo Yu, Ziang Yan, Tianxiang Jiang, Yinan He, Qingsong Zhao, Kai Chen, Yu Qiao, Limin Wang, Manabu Okumura, Yi Wang*\
+**ICLR 2026**
 
-<br>
-<img src="https://i.postimg.cc/k5khG7FJ/ijcv-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-Adaptive Discriminative Regularization for Visual Classification.
+![OV-OAD](https://i.postimg.cc/4dMR8CCY/overall.png)  
+**Does Video-Text Pretraining Help Open-Vocabulary Online Action Detection?**  
+***Qingsong Zhao***, Yi Wang, Jilan Xu, Yinan He, Zifan Song, Limin Wang, Yu Qiao, Cairong Zhao  
+**NeurIPS 2024**  
+[[Code]](https://github.com/OpenGVLab/OV-OAD)
 
-<font face="Georgia"><I></I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I>, Yi Wang, Cairong Zhao</I></font>
-International Journal of Computer Vision, <font face="Georgia" color="RoyalBlue"><I><B>IJCV 2024</B></I></font>
-[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2203.00833)
+![ADR](https://i.postimg.cc/k5khG7FJ/ijcv-overall.png)  
+**Adaptive Discriminative Regularization for Visual Classification**  
+***Qingsong Zhao***, Yi Wang, Cairong Zhao  
+**IJCV 2024**  
+[[Paper]](https://arxiv.org/abs/2203.00833)
 
-<br>
-<img src="https://i.postimg.cc/Yq54dV34/aedc-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-Learning Discriminative Representations in Videos via Active Embedding Distance Correlation.
+![AEDC](https://i.postimg.cc/Yq54dV34/aedc-overall.png)  
+**Learning Discriminative Representations in Videos via Active Embedding Distance Correlation**  
+***Qingsong Zhao***, Yi Wang, Cairong Zhao  
+**SPL 2024**  
+[[Code]](https://github.com/ZQSIAT/AEDC)
 
-<font face="Georgia"><I></I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I>, Yi Wang, Cairong Zhao</I></font>
-IEEE SPL <font face="Georgia" color="RoyalBlue"><I><B>SPL 2024</B></I></font>
-[[<font color="RoyalBlue"><B>📃 Code</B></font>]](https://github.com/ZQSIAT/AEDC)
+![LiDAR](https://i.postimg.cc/CxbRXNPc/icra-overall.png)  
+**Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**  
+*Rui Yu, Runkai Zhao, Jiagen Li,* ***Qingsong Zhao***  
+**ICRA 2025**  
+[[Paper]](https://arxiv.org/abs/2409.11018)
 
+![KBS](https://i.postimg.cc/5t1XVCDb/kbs-overall.png)  
+**Exploiting Spatio-Temporal Representation for 3D Human Action Recognition from Depth Map Sequences**  
+*Xiaopeng Ji,* ***Qingsong Zhao***  
+**KBS 2021**  
+[[Paper]](https://ieeexplore.ieee.org/document/8943103)
 
-<br>
-
-<img src="https://i.postimg.cc/CxbRXNPc/icra-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-ModelKnowledge Distillation.
-
-<font face="Georgia"><I>Rui Yu, Runkai Zhao, Jiagen Li, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I></I></font>
-2025 IEEE International Conference on Robotics and Automation (Under Review) <font face="Georgia" color="RoyalBlue"><I><B>ICRA 2025</B></I></font>
-[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://arxiv.org/abs/2409.11018)
-
-<br>
-
-<img src="https://i.postimg.cc/5t1XVCDb/kbs-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-Exploiting Spatio-Temporal Representation for 3D Human Action Recognition from Depth Map Sequences.
-
-<font face="Georgia"><I>Xiaopeng Ji, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I></I></font>
-KBS <font face="Georgia" color="RoyalBlue"><I><B>KBS 2021</B></I></font>
-[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/document/8943103)
-
-<br>
-
-<img src="https://i.postimg.cc/02MMdxpR/tmm-overall.png" width="307" height="158"   align="left" hspace="20" vspace="0"/>
-A Cuboid CNN Model with an Attention Mechanism for Skeleton-based Action Recognition.
-
-<font face="Georgia"><I>Kaijun Zhu, Ruxin Wang, </I></font>**<font face="Georgia" color="RoyalBlue"><I><B>Qingsong Zhao</B></I></font>**<font face="Georgia"><I></I></font>
-IEEETransactions on Multimedia <font face="Georgia" color="RoyalBlue"><I><B>TMM 2020</B></I></font>
-[[<font color="RoyalBlue"><B>📃 Paper</B></font>]](https://ieeexplore.ieee.org/document/8943103)
-
-<br>
-
-
-
-
+![TMM](https://i.postimg.cc/02MMdxpR/tmm-overall.png)  
+**A Cuboid CNN Model with an Attention Mechanism for Skeleton-based Action Recognition**  
+*Kaijun Zhu, Ruxin Wang,* ***Qingsong Zhao***  
+**TMM 2020**  
+[[Paper]](https://ieeexplore.ieee.org/document/8943103)
 
 # 💡Chaos🔧
 ## 数字图像处理
