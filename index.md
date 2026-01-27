@@ -53,8 +53,8 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 
 ![LiDAR](https://i.postimg.cc/CxbRXNPc/icra-overall.png)  
 **Unleashing the Potential of Mamba: Boosting a LiDAR 3D Sparse Detector by Using Cross-Model Knowledge Distillation**  
-*Rui Yu, Runkai Zhao, Jiagen Li,* ***Qingsong Zhao***  
-**ICRA 2025**  
+*Rui Yu, Runkai Zhao, Jiagen Li, Qingsong Zhao*\
+**arXiv 2025**  
 [[Paper]](https://arxiv.org/abs/2409.11018)
 
 ![KBS](https://i.postimg.cc/5t1XVCDb/kbs-overall.png)  
