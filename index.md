@@ -9,6 +9,7 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 <!-- <br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink) -->
 
 ## ✨News✨
+- [2026/02] I commenced my postdoctoral research at the Computer Science and Technology Research Station of Fudan University under the guidance of Professor [Zhang Junping](http://www.pami.fudan.edu.cn/members.html).
 - [2026/01] We are honored to have **two papers** accepted at ICLR 2026! 🎉
 - [2025/10] Thrilled to announce I’ve joined TeleAI as an Algorithm Researcher, where I’ll be focusing on AI Flow (formerly referred to as 智传网).🌱
 - [2025/10] **1 Papers** on AI4SCI ([**ExpVid: A Benchmark for Experiment Video Understanding & Reasoning**](https://arxiv.org/abs/2510.11606)) are submited. 🎉
