@@ -28,13 +28,13 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 
 ![FAQ](https://i.postimg.cc/bNNWk580/image.png)   
 **Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models**  
-Zheyuan Gu, Qingsong Zhao, Yusong Wang, Zhaohong Huang, Xinqi Li, Cheng Yuan, Jiawei Shao, Chi Zhang, Xuelong Li  
+Zheyuan Gu\*, Qingsong Zhao\*, Yusong Wang, Zhaohong Huang, Xinqi Li, Cheng Yuan, Jiawei Shao, Chi Zhang, Xuelong Li  
 **CVPR 2026 Findings**  
 
 
 ![STCRC](https://i.postimg.cc/7hvPfyjn/image.png)  
 **Streaming Video Crime Anticipation with Spatio-Temporal Causal Reasoning**  
-*Yusong Wang, Zheyuan Gu, MAO KEYU, Minghao Shao, Mingkun Xu, Prayag Tiwari, Jiawei Shao, Qingsong Zhao*  
+*Yusong Wang, Zheyuan Gu, MAO KEYU, Minghao Shao, Mingkun Xu, Prayag Tiwari, Jiawei Shao, Qingsong Zhao†*  
 **CVPR 2026**
  
 ![RIVER](https://i.postimg.cc/PxwfHR6Z/image.png)  
