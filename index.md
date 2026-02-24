@@ -1,4 +1,4 @@
-# 🥂Welcome🍉
+# Welcome🍉
 I hope to communicate and study with you.
 <br>This is my study blog, waiting for my updating. 
 <br>I will transfer notes from [**Zhihu**](https://www.zhihu.com/people/zhao-qing-song-68-22/activities) platform to my own personal blog.
@@ -8,7 +8,8 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 <br>Address: Shanghai, P.R.China
 <!-- <br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink) -->
 
-## ✨News✨
+## News✨
+- [2026/02] It’s a great honor for us: **one paper** accepted to CVPR main, and **one** to CVPR Findings. 🎉
 - [2026/02] I commenced my postdoctoral research at the Computer Science and Technology Research Station of Fudan University under the guidance of Professor [Zhang Junping](http://www.pami.fudan.edu.cn/members.html).
 - [2026/01] We are honored to have **two papers** accepted at ICLR 2026! 🎉
 - [2025/10] Thrilled to announce I’ve joined TeleAI as an Algorithm Researcher, where I’ll be focusing on AI Flow (formerly referred to as 智传网).🌱
@@ -23,7 +24,19 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 
 
 
-## 📖Publications🗞️
+## Publications🗞️
+
+![FAQ](https://i.postimg.cc/bNNWk580/image.png)   
+**Beyond Static Artifacts: A Forensic Benchmark for Video Deepfake Reasoning in Vision Language Models**  
+Zheyuan Gu, Qingsong Zhao, Yusong Wang, Zhaohong Huang, Xinqi Li, Cheng Yuan, Jiawei Shao, Chi Zhang, Xuelong Li  
+**CVPR 2026 Findings**  
+
+
+![STCRC](https://i.postimg.cc/7hvPfyjn/image.png)  
+**Streaming Video Crime Anticipation with Spatio-Temporal Causal Reasoning**  
+*Yusong Wang, Zheyuan Gu, MAO KEYU, Minghao Shao, Mingkun Xu, Prayag Tiwari, Jiawei Shao, Qingsong Zhao*  
+**CVPR 2026**
+ 
 ![RIVER](https://i.postimg.cc/PxwfHR6Z/image.png)  
 **RIVER: Real-time Video Interaction Benchmark**  
 *Yansong Shi\*, Qingsong Zhao\*, Tianxiang Jiang, Xiangyu Zeng, Yi Wang, Limin Wang*  
@@ -70,7 +83,7 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 **TMM 2020**  
 [[Paper]](https://ieeexplore.ieee.org/document/8943103)
 
-# 💡Chaos🔧
+# Chaos🔧
 ## 数字图像处理
 <br>[2018年04月10日 数字图像处理第三章作业 图像增强 LoG](https://zhuanlan.zhihu.com/p/35239779)
 [**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
@@ -78,7 +91,7 @@ Email: ***zqsiat#gmail.com***. Please replace "#" with "@".
 <br>[2019年07月31日 feature map以及反卷积的大小计算](http://note.youdao.com/groupshare/?token=C74CA57A7DCA4FD391295628980DF651&gid=89870316)
 <br>[2019年07月31日 中值滤波原理及其C++代码](http://note.youdao.com/groupshare/?token=76567AC7DAB54DEC804E0626E0380E32&gid=89870316)
 <br>[2019年08月02日 加权中值滤波原理及其公式推导](https://note.youdao.com/share/?token=8FA3D0281A964C1BA3A6C71059284881&gid=89870316)
-## 📒机器学习🐛
+## 机器学习🐛
 [2018年07月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
 [2021年02月02日 二维卷积的python实现](./docs/convolution.md)
 <br>[2021年02月02日 softmax激活函数结合cross entropy损失函数的反向传播过程计算](http://note.youdao.com/groupshare/?token=60D47E0873964BFFB5982AFDF38B200F&gid=89870316)
