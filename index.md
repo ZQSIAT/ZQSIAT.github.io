@@ -1,5 +1,13 @@
-# Welcome🍉
-I’m interested in imitation learning and online learning in theory, and passionate about video understanding in practice. Looking forward to chatting, brainstorming, and learning together with you!
+# Welcome
+In theory, I find Representation Learning and Online Learning fascinating.
+
+In practice, only Video Understanding really captures my attention.
+
+I am willing to converse and study with you.
+
+But please, no silly questions.
+
+Logic only.
 
 ## News✨
 **We’re looking for interns in reinforcement learning, multimodal learning, and video understanding. Talented folks, come join us! If you are interested, please send your CV to zqsiat@gmail.com.**
