@@ -10,12 +10,12 @@ But please, no silly questions.
 Logic only.
 
 ## News✨
-**We’re looking for interns in reinforcement learning, multimodal learning, and video understanding. Talented folks, come join us! If you are interested, please send your CV to zqsiat@gmail.com.**
+**We’re looking for interns in reinforcement learning, multimodal learning, and video understanding. Talented folks, come join us! If you are interested, please send your CV to [zqsiat@gmail.com](zqsiat@gmail.com).**
 What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing resources; 3) Room to explore freely and innovate boldly.
 <br>**History Intern:** 
-<br> 1) Yusong Wang (friend and collaborator), from Tokyo Tech, [homepage](https://github.com/wykstc)
-<br> 2) Jiahao Nie (friend and collaborator), from NTU, [homepage](https://niejiahao1998.github.io/)
-<br> 3) Yu Wei, from NTU, [homepage](https://weiyu.github.io/)
+<br> 1) Yusong Wang (friend and collaborator), from Tokyo Tech, [homepage](https://github.com/wykstc).
+<br> 2) Jiahao Nie (friend and collaborator), from NTU, [homepage](https://niejiahao1998.github.io/).
+<br> 3) Yu Wei, from NTU, [homepage](https://weiyu.github.io/).
 
 
 - [2026/02] It’s a great honor for us: **one paper** accepted to CVPR main, and **one** to CVPR Findings. 🎉
