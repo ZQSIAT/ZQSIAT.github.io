@@ -1,15 +1,10 @@
 # Welcome🍉
-I hope to communicate and study with you.
-
-# How can you reach me?
-Email: ***zqsiat#gmail.com***. Please replace "#" with "@". 
-<br>Address: Shanghai, P.R.China
-<!-- <br>My Resume: [2024-10-21-updating](https://aicarrier.feishu.cn/wiki/GxWFwJwsQimlEmk2i6ycQTAVnsh?from=from_copylink) -->
+I’m interested in imitation learning and online learning in theory, and passionate about video understanding in practice. Looking forward to chatting, brainstorming, and learning together with you!
 
 ## News✨
-**Our group is currently seeking interns in the fields of reinforcement learning, multimodal learning, and video understanding. Welcome talented individuals to join us.**
-<br>Our strengths: 1) Guidance from senior research students and 2) ample computing resources, 3) plus a nice mentor.
-<br>History Intern: 
+**We’re looking for interns in reinforcement learning, multimodal learning, and video understanding. Talented folks, come join us! If you are interested, please send your CV to zqsiat@gmail.com.**
+What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing resources; 3) Room to explore freely and innovate boldly.
+<br>**History Intern:** 
 <br> 1) Yusong Wang (friend and collaborator), from Tokyo Tech, [homepage](https://github.com/wykstc)
 <br> 2) Jiahao Nie (friend and collaborator), from NTU, [homepage](https://niejiahao1998.github.io/)
 <br> 3) Yu Wei, from NTU, [homepage](https://weiyu.github.io/)
