@@ -20,6 +20,8 @@ What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing
 <br> 3) Yu Wei (friend and collaborator), PhD from NTU, [homepage](https://weiyu.github.io/).
 
 
+- [2026/05] **1 Papers** on Segmentation "[Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification in SAM](https://arxiv.org/abs/2602.05218)" are submited. 🎉
+- [2026/05] **1 Papers** on Video Understanding "Unlocking High-Frequency Temporal Visual Cues for Personality Traits Recognition" has been accepted for publication in IEEE Access.🎉
 - [2026/02] It’s a great honor for us: **one paper** accepted to CVPR main, and **one** to CVPR Findings. 🎉
 - [2026/02] I commenced my postdoctoral research at the Computer Science and Technology Research Station of Fudan University under the guidance of Professor [Zhang Junping](http://www.pami.fudan.edu.cn/members.html).
 - [2026/01] We are honored to have **two papers** accepted at ICLR 2026! 🎉
@@ -84,13 +86,13 @@ Zheyuan Gu\*, Qingsong Zhao\*, Yusong Wang, Zhaohong Huang, Xinqi Li, Cheng Yuan
 
 ![KBS](https://i.postimg.cc/5t1XVCDb/kbs-overall.png)  
 **Exploiting Spatio-Temporal Representation for 3D Human Action Recognition from Depth Map Sequences**  
-*Xiaopeng Ji,* ***Qingsong Zhao***  
+*Xiaopeng Ji,* ***Qingsong Zhao***, Jun Cheng, Chenfei Ma \
 **KBS 2021**  
 [[Paper]](https://ieeexplore.ieee.org/document/8943103)
 
 ![TMM](https://i.postimg.cc/02MMdxpR/tmm-overall.png)  
 **A Cuboid CNN Model with an Attention Mechanism for Skeleton-based Action Recognition**  
-*Kaijun Zhu, Ruxin Wang,* ***Qingsong Zhao***  
+*Kaijun Zhu, Ruxin Wang,* ***Qingsong Zhao***, Jun Cheng, Dapeng Tao \
 **TMM 2020**  
 [[Paper]](https://ieeexplore.ieee.org/document/8943103)
 
