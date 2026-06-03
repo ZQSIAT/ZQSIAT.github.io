@@ -1,4 +1,4 @@
-# Welcome
+# Welcome<img width="27" height="25" alt="image" src="https://github.com/user-attachments/assets/0ca301fc-689c-4d61-8295-235f477c1b7b" />
 In theory, I find Representation Learning and Online Learning fascinating.
 
 In practice, only Video Understanding really captures my attention.
@@ -9,7 +9,7 @@ But please, no silly questions.
 
 Logic only.
 
-[Google Scholar](https://scholar.google.com/citations?user=ux-dlywAAAAJ&hl=en)
+See my publications on [Google Scholar](https://scholar.google.com/citations?user=ux-dlywAAAAJ&hl=en) <img width="23" height="22" alt="image" src="https://github.com/user-attachments/assets/7cc4151c-223d-49d0-8021-0bd7b57af5e7" />.
 
 ## News✨
 **We’re looking for interns in reinforcement learning, multimodal learning, and video understanding. Talented folks, come join us! If you are interested, please send your CV to [zqsiat@gmail.com](zqsiat@gmail.com).**
@@ -21,21 +21,21 @@ What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing
 
 
 - [2026/05] **1 Papers** on Segmentation "[Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification in SAM](https://arxiv.org/abs/2602.05218)" is submited. 🎉
-- [2026/05] **1 Papers** on Video Understanding "Unlocking High-Frequency Temporal Visual Cues for Personality Traits Recognition" has been accepted for publication in IEEE Access.🎉
+- [2026/05] **1 Papers** on Video Understanding "[Unlocking High-Frequency Temporal Visual Cues for Personality Traits Recognition](https://ieeexplore.ieee.org/document/11541008)" has been accepted for publication in IEEE Access.🎉
 - [2026/05] **1 Papers** on Representation Learning "LAViT: Injecting Locality into Vision Transformers for Robust Representation Learning" is submited. 
 - [2026/02] It’s a great honor for us: **one paper** accepted to CVPR main, and **one** to CVPR Findings. 🎉
 - [2026/02] I commenced my postdoctoral research at the Computer Science and Technology Research Station of Fudan University under the guidance of Professor [Zhang Junping](http://www.pami.fudan.edu.cn/members.html).
 - [2026/01] We are honored to have **two papers** accepted at ICLR 2026! 🎉
 - [2026/01] **1 Papers** on Multi-Modal "On the Consistency of 3D Large Language Models" is submited. 
-- [2025/10] Thrilled to announce I’ve joined TeleAI as an Algorithm Researcher, where I’ll be focusing on AI Flow (formerly referred to as 智传网).🌱
-- [2025/10] **1 Papers** on AI4SCI ([**ExpVid: A Benchmark for Experiment Video Understanding & Reasoning**](https://arxiv.org/abs/2510.11606)) are submited. 🎉
-- [2025/09] **1 Papers** on Deep Learning ([**Person Identify Shift for Privacy-Preserving Person Re-identification**](https://arxiv.org/abs/2207.07311)) are accepted by SCIENCE CHINA Information Sciences, **SCIS CCF-A**.🎉
-- [2025/08] **1 Papers** on Machine Learning ([**DPL++: Advancing the Network Performance via Image and Label Perturbations**](https://github.com/)) are accepted by Transactions on Pattern Analysis and Machine Intelligence, **TPAMI 2025**.🎉
-- [2024/10] **1 Papers** on Video Understanding ([**Learning Discriminative Representations in Videos**](https://github.com/ZQSIAT/AEDC)) are accepted by IEEE Signal Processing Letters, **SPL 2024**.🎉
+- [2025/10] Thrilled to announce I’ve joined TeleAI as an Algorithm Researcher, where I’ll be focusing on AI Flow (formerly referred to as 智传网).
+- [2025/10] **1 Papers** on AI4SCI ([**ExpVid: A Benchmark for Experiment Video Understanding & Reasoning**](https://arxiv.org/abs/2510.11606)) are submited. 
+- [2025/09] **1 Papers** on Deep Learning ([**Person Identify Shift for Privacy-Preserving Person Re-identification**](https://arxiv.org/abs/2207.07311)) are accepted by SCIENCE CHINA Information Sciences, **SCIS CCF-A**.
+- [2025/08] **1 Papers** on Machine Learning ([**DPL++: Advancing the Network Performance via Image and Label Perturbations**](https://github.com/)) are accepted by Transactions on Pattern Analysis and Machine Intelligence, **TPAMI 2025**.
+- [2024/10] **1 Papers** on Video Understanding ([**Learning Discriminative Representations in Videos**](https://github.com/ZQSIAT/AEDC)) are accepted by IEEE Signal Processing Letters, **SPL 2024**.
 - [2024/10] I have been invited to serve as a Reviewer for CVPR, **CVPR 2025**.
-- [2024/09] **1 Papers** on Video Understanding ([**Open-Vocabulary Online Action Detection**](https://github.com/OpenGVLab/OV-OAD)) are accepted by Advances in Neural Information Processing Systems, **NeurIPS 2024**.🎉
+- [2024/09] **1 Papers** on Video Understanding ([**Open-Vocabulary Online Action Detection**](https://github.com/OpenGVLab/OV-OAD)) are accepted by Advances in Neural Information Processing Systems, **NeurIPS 2024**.
 - [2024/08] I have been invited to serve as a Reviewer for AAAI, **AAAI 2025**.
-- [2024/05] **1 Paper** on visual classification ([***Code Needs Comments***](https://link.springer.com/article/10.1007/s11263-024-02080-0)) is accepted by International Journal of Computer Vision, **IJCV 2024**.🎉
+- [2024/05] **1 Paper** on visual classification ([***Code Needs Comments***](https://link.springer.com/article/10.1007/s11263-024-02080-0)) is accepted by International Journal of Computer Vision, **IJCV 2024**.
 
 
 
@@ -98,7 +98,7 @@ Zheyuan Gu\*, Qingsong Zhao\*, Yusong Wang, Zhaohong Huang, Xinqi Li, Cheng Yuan
 **TMM 2020**  
 [[Paper]](https://ieeexplore.ieee.org/document/8943103)
 
-# Chaos🔧
+# Chaos
 ## 数字图像处理
 <br>[2018年04月10日 数字图像处理第三章作业 图像增强 LoG](https://zhuanlan.zhihu.com/p/35239779)
 [**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
@@ -106,7 +106,7 @@ Zheyuan Gu\*, Qingsong Zhao\*, Yusong Wang, Zhaohong Huang, Xinqi Li, Cheng Yuan
 <br>[2019年07月31日 feature map以及反卷积的大小计算](http://note.youdao.com/groupshare/?token=C74CA57A7DCA4FD391295628980DF651&gid=89870316)
 <br>[2019年07月31日 中值滤波原理及其C++代码](http://note.youdao.com/groupshare/?token=76567AC7DAB54DEC804E0626E0380E32&gid=89870316)
 <br>[2019年08月02日 加权中值滤波原理及其公式推导](https://note.youdao.com/share/?token=8FA3D0281A964C1BA3A6C71059284881&gid=89870316)
-## 机器学习🐛
+## 机器学习
 [2018年07月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
 [2021年02月02日 二维卷积的python实现](./docs/convolution.md)
 <br>[2021年02月02日 softmax激活函数结合cross entropy损失函数的反向传播过程计算](http://note.youdao.com/groupshare/?token=60D47E0873964BFFB5982AFDF38B200F&gid=89870316)
