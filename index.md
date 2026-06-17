@@ -17,8 +17,8 @@ See my publications on [Google Scholar](https://scholar.google.com/citations?use
 What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing resources; 3) Room to explore freely and innovate boldly.
 <br>**History Intern:** 
 <br> 1) Yusong Wang (friend and collaborator), PhD from Tokyo Tech, [homepage](https://github.com/wykstc).
-<br> 2) Jiahao Nie (friend and collaborator), PhD from NTU, [homepage](https://niejiahao1998.github.io/).
-<br> 3) Yu Wei (friend and collaborator), PhD from NTU, [homepage](https://weiyu.github.io/).
+<br> 2) Jiahao Nie (collaborator), PhD from NTU, [homepage](https://niejiahao1998.github.io/).
+<br> 3) Yu Wei (collaborator), PhD from NTU, [homepage](https://weiyu.github.io/).
 
 
 ## News 🥳
