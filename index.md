@@ -5,10 +5,6 @@ In practice, only Video Understanding really captures my attention.
 
 I am willing to converse and study with you.
 
-But please, no silly questions.
-
-Logic only.
-
 See my publications on [Google Scholar](https://scholar.google.com/citations?user=ux-dlywAAAAJ&hl=en) <img width="23" height="22" alt="image" src="https://github.com/user-attachments/assets/7cc4151c-223d-49d0-8021-0bd7b57af5e7" />.
 
 
@@ -18,7 +14,8 @@ What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing
 <br>**History Intern:** 
 <br> 1) Yusong Wang (friend and collaborator), PhD from Tokyo Tech, [homepage](https://github.com/wykstc).
 <br> 2) Jiahao Nie (collaborator), PhD from NTU, [homepage](https://niejiahao1998.github.io/).
-<br> 3) Yu Wei (collaborator), PhD from NTU, [homepage](https://weiyu.github.io/).
+<br> 3) Zixuan Fu (collaborator), PhD from NTU, [homepage](https://scholar.google.com/citations?user=iWALaSYAAAAJ&hl=en).
+<br> 4) Yu Wei (collaborator), PhD from NTU, [homepage](https://weiyu.github.io/).
 
 
 ## News 🥳
