@@ -5,8 +5,6 @@ In practice, only Video Understanding really captures my attention.
 
 I am willing to converse and study with you.
 
-See my publications on [Google Scholar](https://scholar.google.com/citations?user=ux-dlywAAAAJ&hl=en) <img width="23" height="22" alt="image" src="https://github.com/user-attachments/assets/7cc4151c-223d-49d0-8021-0bd7b57af5e7" />.
-
 <!--
 ## Pin2Top 🤩
 **We’re looking for interns in reinforcement learning, multimodal learning, and video understanding. Talented folks, come join us! If you are interested, please send your CV to [zqsiat@gmail.com](zqsiat@gmail.com).**
@@ -98,6 +96,8 @@ Zheyuan Gu\*, Qingsong Zhao\*, Yusong Wang, Zhaohong Huang, Xinqi Li, Cheng Yuan
 *Kaijun Zhu, Ruxin Wang,* ***Qingsong Zhao***, Jun Cheng, Dapeng Tao \
 **TMM 2020**  
 [[Paper]](https://ieeexplore.ieee.org/document/8943103)
+
+See my publications on [Google Scholar](https://scholar.google.com/citations?user=ux-dlywAAAAJ&hl=en) <img width="23" height="22" alt="image" src="https://github.com/user-attachments/assets/7cc4151c-223d-49d0-8021-0bd7b57af5e7" />.
 
 <!--
 # Chaos
