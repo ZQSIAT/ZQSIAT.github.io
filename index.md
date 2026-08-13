@@ -7,7 +7,7 @@ I am willing to converse and study with you.
 
 See my publications on [Google Scholar](https://scholar.google.com/citations?user=ux-dlywAAAAJ&hl=en) <img width="23" height="22" alt="image" src="https://github.com/user-attachments/assets/7cc4151c-223d-49d0-8021-0bd7b57af5e7" />.
 
-
+<!--
 ## Pin2Top 🤩
 **We’re looking for interns in reinforcement learning, multimodal learning, and video understanding. Talented folks, come join us! If you are interested, please send your CV to [zqsiat@gmail.com](zqsiat@gmail.com).**
 What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing resources; 3) Room to explore freely and innovate boldly.
@@ -16,6 +16,7 @@ What we offer: 1) Mentorship from experienced researchers; 2) Abundant computing
 <br> 2) Jiahao Nie (collaborator), PhD from NTU, [homepage](https://niejiahao1998.github.io/).
 <br> 3) Zixuan Fu (collaborator), PhD from NTU, [homepage](https://scholar.google.com/citations?user=iWALaSYAAAAJ&hl=en).
 <br> 4) Yu Wei (collaborator), PhD from NTU, [homepage](https://weiyu.github.io/).
+-->
 
 
 ## News 🥳
